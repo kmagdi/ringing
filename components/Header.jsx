@@ -37,7 +37,8 @@ const styles = StyleSheet.create({
         fontWeight:'bold',
         fontSize:20,
         textAlign:'center',
-        paddingLeft:10
+        paddingLeft:10,
+        paddingTop:10
     },
     imgTextHolder:{
         flex:1,

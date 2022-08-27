@@ -38,8 +38,8 @@ return ()=>clearInterval(idref)
 const styles = StyleSheet.create({
   container: {
     height:70,
-    marginLeft:130,
-    marginRight:130
+    marginLeft:150,
+    marginRight:150
    
   },
   text:{
