@@ -22,6 +22,7 @@ export const Header=()=> {
 const styles = StyleSheet.create({
     header:{
         height:100,
+        marginTop:10
         
     },
     background: {
@@ -34,7 +35,7 @@ const styles = StyleSheet.create({
       },
     titleText:{
         fontWeight:'bold',
-        fontSize:24,
+        fontSize:20,
         textAlign:'center',
         paddingLeft:10
     },
